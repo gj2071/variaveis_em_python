@@ -1,2 +1,2 @@
-# variaveis_em_python
+# variáveis_em_python
 Declaração de variáveis em Python
